@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a0c5db35-1e59-4d79-80af-cdb7fbe220ba" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2o9Vs29uXkviGbwus3XJFexKSoi" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.AgeCalculator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArithmeticCal.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArmstrongNum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BitwiseAnd.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BitwiseCompliment.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BitwiseOr.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BitwiseXOR.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Calculator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CompoundInterest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DivTwoNum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Factorial.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FahrenheitToCelsius.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FibonacciSeries.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FloatMultiplication.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GCD.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GradingOfMarks.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GreatestOfThree.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LCM.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LeapYear.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LeftHalfPyramid.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LeftShift.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LoopPatterns.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MultiplicationTable.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OddEven.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OddEvenBitwise.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OddSum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PalindromeNum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Perimeter.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PositiveNegativeZero.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrimeNum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReverseRightHalfPyramid.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReverseTheDigits.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RightHalfPyramid.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RightShift.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SimpleInterest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SumOfDigits.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SumTwoNum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Swap.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TriAngleArea.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Welcome.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;D:/Tutorials/Java course/3 Data Types Variables and Input/Challenges/src/Main.java&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.LoopPatterns">
+    <configuration name="ArmstrongNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArmstrongNum" />
+      <module name="Programming Challenges" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FibonacciSeries" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FibonacciSeries" />
+      <module name="Programming Challenges" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoopPatterns" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LoopPatterns" />
+      <module name="Programming Challenges" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PalindromeNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PalindromeNum" />
+      <module name="Programming Challenges" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReverseTheDigits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ReverseTheDigits" />
+      <module name="Programming Challenges" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.LoopPatterns" />
+        <item itemvalue="Application.PalindromeNum" />
+        <item itemvalue="Application.ArmstrongNum" />
+        <item itemvalue="Application.FibonacciSeries" />
+        <item itemvalue="Application.ReverseTheDigits" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a0c5db35-1e59-4d79-80af-cdb7fbe220ba" name="Changes" comment="" />
+      <created>1730281986427</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1730281986427</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/9 FloatMultiplication.java</url>
+          <line>3</line>
+          <properties class="FloatMultiplication" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/27 OddEvenBitwise.java</url>
+          <line>3</line>
+          <properties class="OddEvenBitwise" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
