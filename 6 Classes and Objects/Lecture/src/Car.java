@@ -85,3 +85,31 @@ public class Car {
 
     }
 }
+
+
+
+/*
+<--------------------------- Using for "Stack vs Heap Memory" keyword ---------------------------------->
+
+Stack:- A Stack is a linear data structure that holds a linear, ordered sequence of elements. It is an abstract data type.
+        A stack works on LIFO process (Last In First Out) i.e, the element that was inserted last will be removed first.
+        E.g:- A deck of cards, piles of money, piles of books.
+
+Stack Memory:- A stack memory is not flexible the memory size allotted can not be changed.It is used only by one thread execution.
+
+Heap:-  Heap (Java) is also the area of memory used to store objects instantiated by applications running on the JVM.
+        When JVM is started, heap memory is created and any objects in the heap can be shared b/w threads as long as the
+        application is running.
+        Heap is used for dynamic memory allocation and storage of objects. It is a shared memory area accessible to all
+        threads in java application.
+
+Heap Memory:- Heap memory is a vital component of the JVM responsible for dynamically allocating and managing objects during
+              program execution.It is shared memory area accessible to all threads in the Java application.
+Object Storage:- Object created at runtime, such as instances of classes, arrays, and collections are stored in heap.
+
+Application:- Using of key purpose.
+Object Allocation:-
+Automatic Memory Management:-
+
+
+ */
