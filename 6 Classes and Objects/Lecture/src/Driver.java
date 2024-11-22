@@ -27,7 +27,7 @@ public class Driver {
         bugadi.start().drive();
         mahindra.start().drive();
         System.out.println(bugadi.color);
-        System.out.println(mahindra.color);
+        System.out.print(mahindra.color);
 //        startedCar.drive();
 
 
@@ -36,6 +36,18 @@ public class Driver {
 //        System.out.println(Driver.minAgeForDriving);
     }
 }
+
+
+
+/*
+<------------------------------ Using for "this" keyword ---------------------------------->
+
+Constructor Call: Can be used to invoke a constructor of the same class (this()).
+Method Call: Invokes a method of the current object.
+Current Instance: Refers to the current class instance variable.
+Pass as Argument: Can be passed as an argument in the method call and constructor call.
+Return Call: Can be used to return the current class instance from the method.
+*/
 
 
 /*
