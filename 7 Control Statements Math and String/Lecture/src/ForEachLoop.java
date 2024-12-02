@@ -4,6 +4,7 @@ public class ForEachLoop {
                 "Ram", "Shyam", "Mohan", "Sohan", "Geeta", "Sita"
         };
         printArray(array);
+        printArrayForEach(array);
     }
     public static void printArray(String[] array) {
         for (int i = 0; i < array.length; i++) {
@@ -12,12 +13,14 @@ public class ForEachLoop {
         System.out.println();
 //      <------------------------------Professional Method used be ForEach Loop----------------------->
         for (String s : array) {
-            System.out.print(s + " ");
+            System.out.println(s + " ");
         }
     }
 
     public static void printArrayForEach (String[] array) {
-
+        for (String name : array) {
+            System.out.print(name + " ");
+        }
     }
 }
 
