@@ -68,9 +68,9 @@ Printf specifier                    DataType
 
 <------------------------------------------{"Using of 'Flag' and 'Purpose' in String Class"}------------------------------------------------------>
 
-Printf flag                         Purpose
-
 <------------{ "% [flags] [width] [.precision] specifier-character" }-------------> formula of String adding
+
+Printf flag                         Purpose
 
 -                                   Aligns the formatted printf output to the left
 =                                   The output includes a negative or positive sign
@@ -79,5 +79,15 @@ Printf flag                         Purpose
 ,                                   The formatted output includes grouping separators
 <space>                             A blank space adds a minus sign for negative numbers and a leading space when positive.
 
+
+
+<------------------------------------------{"Using of 'Pattern' and 'Data', 'Output' in String Class"}------------------------------------------------------>
+
+Pattern                             Data                            Printf Output
+
+%s                                  Java                            'Java'
+%15s                                Java                            '           Java'
+%-15s                               Java                            'Java           '
+%-15S                               Java                            'JAVA           '
 
  */
