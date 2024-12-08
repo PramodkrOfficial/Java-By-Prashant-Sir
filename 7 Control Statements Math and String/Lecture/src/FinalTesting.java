@@ -3,7 +3,7 @@ public class FinalTesting {
      final double PI = 3.1412;
 
     void testing(double PI) {
-        this.PI = PI;        //  Can not reassign a value of final variable
+//        this.PI = PI;        //  Can not reassign a value of final variable
     }
 
     public static void main(String[] args) {
@@ -21,7 +21,7 @@ public class FinalTesting {
 4. Immutable Objects:---------> Helps in creating immutable objects in combination with private fields and no setter methods.
 
 
-<----------------------------{Syntax of 'Final keyword'} ----------------------->
+<----------------------------{Syntax of 'Final keyword'} ------------------------->
 
                         public static Main {
                             public final String name = "Pramod_Dev";
