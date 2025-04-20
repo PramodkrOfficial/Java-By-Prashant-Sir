@@ -36,7 +36,7 @@ public class TestingList {
 
 
 /*
-<--------------------------------------------------------{"Using 'List Interface' in deep learning"}-------------------------------------------------------------------->
+<--------------------------------------------------------{"Using 'List Interface Method' in deep learning"}-------------------------------------------------------------------->
 
 1. add(E, e): Appends the specified element.
 2. add(int index, E element): Inserts at specified position.
