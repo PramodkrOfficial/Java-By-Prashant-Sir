@@ -1,3 +1,5 @@
+import in.kgcoding.Collections.Utility;
+
 public class VarArgs {
     public static void main(String[] args) {
         printMany("one", "two","three");
@@ -7,6 +9,7 @@ public class VarArgs {
         printMany();
         System.out.println();
         printMany(new String[]{"one","two", "three"});
+        Utility.print(n);
     }
 
     static void printMany (String...elements) {
