@@ -1,4 +1,4 @@
-package in.kgcoding.collectionslibrary;
+package in.kgcoding.map;
 
 public class MapInterface {
 
