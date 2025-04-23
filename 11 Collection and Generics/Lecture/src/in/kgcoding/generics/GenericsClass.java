@@ -15,7 +15,7 @@ public class GenericsClass<T> {
 
 
 /*
-<--------------------------------------------------------{"Using 'Enums class Method' in deep learning"}----------------------------------------------------------------------->
+<--------------------------------------------------------{"Using 'Generics class Method' in deep learning"}----------------------------------------------------------------------->
 
 1. They allow you to write flexible and reusable code by enabling types (classes and interfaces) to be parameters when defining classes, interfaces, and methods.
 2. Generics provide compile-time safety by allowing you to enforce that certain objects are of a specific type.
