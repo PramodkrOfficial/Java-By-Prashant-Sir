@@ -12,7 +12,7 @@ public class TestingEnums {
         Grade grade = Grade.valueOf("D");
         for (Grade value : Grade.values()) {
             System.out.println(value);
-        }
 
+        }
     }
 }

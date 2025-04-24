@@ -36,6 +36,8 @@ enum TrafficSignal {
     public String getAction() {
         return action;
     }
+
+
 }
 
 
