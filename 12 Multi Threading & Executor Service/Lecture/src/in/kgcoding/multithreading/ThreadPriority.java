@@ -30,8 +30,6 @@ class  MyThread extends Thread {
 
 
 
-
-
 /*
 <----------------------------------------------------------{"Using 'MultiThread Method' in deep learning"}----------------------------------------------------------------------->
 1. Priority Levels: Java threads have priority levels from 1 (lowest) to 10 (highest), with a default value of 5.

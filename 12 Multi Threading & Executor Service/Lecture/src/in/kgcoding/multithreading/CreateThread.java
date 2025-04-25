@@ -38,7 +38,6 @@ public class CreateThread extends Thread {
 2. They will execute independently and print their values.
 
 
-
  */
 
 
