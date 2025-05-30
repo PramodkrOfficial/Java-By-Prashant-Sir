@@ -1,4 +1,4 @@
-package in.kgcoding.multithreading;
+package in.kgcoding.multithreading.join;
 
 import in.kgcoding.multithreading.runnable.PrintTask;
 

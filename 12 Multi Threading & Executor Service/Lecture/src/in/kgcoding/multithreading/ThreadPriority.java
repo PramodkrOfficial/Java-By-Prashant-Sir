@@ -6,7 +6,7 @@ public class ThreadPriority {
         MyThread t1 = new MyThread();
         MyThread t2 = new MyThread();
 
-        t1.setPriority(Thread.MIN_PRIORITY);  //setting priority to 1
+        t1.setPriority(Thread.MIN_PRIORITY);  // setting priority to 1
         t2.setPriority(Thread.MAX_PRIORITY);  // setting priority to 10
 
         t1.setName("Thread-1");

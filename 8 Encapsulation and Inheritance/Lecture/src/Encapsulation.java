@@ -1,15 +1,46 @@
+import java.util.Scanner;
 
 public class Encapsulation {
-    public static void main(String[] args) {
 
-        System.out.printf("Hello and welcome!\n");
+    private String StdName;
+    private int  StdAge;
 
-        for (int i = 1; i <= 5; i++) {
-            System.out.println("i = " + i);
+    public String getStdName() {
+        return StdName;
+    }
+    public void setStdName(String stdName) {
+        this.StdName = stdName;
+    }
+
+    public int getStdAge() {
+        return StdAge;
+    }
+
+    public void setStdAge(int stdAge) {
+        if(stdAge > 0) {
+            StdAge = stdAge;
+        } else  {
+            System.out.println("Age is positive");
         }
     }
+
 }
 
+
+class StudentTesting {
+
+    public static void main(String[] args) {
+        Encapsulation s1 = new Encapsulation();
+
+        //get value using in setter methods
+        s1.setStdName("Pramod");
+        s1.setStdAge(22);
+
+        //get value using in getter methods
+        System.out.println("Encapsulation.Student Name: " + s1.getStdName());
+        System.out.println("Encapsulation.Student Age: " + s1.getStdAge());
+    }
+}
 
 
 /*
@@ -25,12 +56,3 @@ public class Encapsulation {
 6.Enhances Modularity:---> Keeps classes separate and reduces coupling.
 
  */
-
-
-
-
-
-
-
-
-

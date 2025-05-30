@@ -5,6 +5,7 @@ public class CreateThread extends Thread {
 
     public static void main(String[] args) {
         //Step 3: Create an Instance of Your Class
+
         CreateThread t1 = new CreateThread('*');
         t1.start();    // start the first thread
 

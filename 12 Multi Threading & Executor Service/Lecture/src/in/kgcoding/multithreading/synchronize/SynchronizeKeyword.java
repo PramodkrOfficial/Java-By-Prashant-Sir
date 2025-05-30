@@ -1,2 +1,6 @@
-package in.kgcoding.multithreading.synchronize;public class SynchronizeKeyword {
+package in.kgcoding.multithreading.synchronize;
+
+public class SynchronizeKeyword {
+
+
 }
