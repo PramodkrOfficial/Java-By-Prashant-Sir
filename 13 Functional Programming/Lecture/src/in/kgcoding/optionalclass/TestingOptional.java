@@ -15,6 +15,5 @@ public class TestingOptional {
         } else {
             System.out.println("List is empty");
         }
-
     }
 }
